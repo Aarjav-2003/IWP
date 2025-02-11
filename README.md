@@ -1,9 +1,10 @@
 # IWP
 The website built here is a Cyberpunk-themed informational webpage with a futuristic neon aesthetic. It covers topics like:
-
-🔹 Neon Metropolis – A vision of a high-tech cybernetic city.
-🔹 Artificial Intelligence – The evolution of AI and its role in the future.
-🔹 Cybersecurity in 2080 – How cybersecurity is shaping up against AI-driven threats.
+<ul>
+  <li>Neon Metropolis – A vision of a high-tech cybernetic city.</li>
+  <li>Artificial Intelligence – The evolution of AI and its role in the future.</li>
+  <li>Cybersecurity in 2025 – How cybersecurity is shaping up against AI-driven threats.</li>
+</ul>
 
 Features:
 ✅ Glowing neon elements for a high-tech feel.
