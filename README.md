@@ -7,8 +7,10 @@ The website built here is a Cyberpunk-themed informational webpage with a futuri
 </ul>
 
 Features:
-✅ Glowing neon elements for a high-tech feel.
-✅ Hover effects & smooth transitions for interactive engagement.
-✅ Aesthetic fonts & colors inspired by Cyberpunk visuals.
+<ul>
+  <li>Glowing neon elements for a high-tech feel.</li>
+  <li>Hover effects & smooth transitions for interactive engagement.</li>
+  <li>Aesthetic fonts & colors inspired by Cyberpunk visuals.</li>
+</ul>
 
 Would you like any more interactive elements like animations, buttons, or a scrolling effect? 🚀
